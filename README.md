@@ -27,9 +27,9 @@
 	- raw data and GAM plots of cross validation (cv\_data\_in_paper/cv\*.csv and cv\*.pdf)
 
 	
-## Usage
+## Usage and command lines
 
-- The main program includes three different modules, which were used to generate two-variable GAM plot (d3\_plot.r) and linear regression (r2\_plot.r) for predicting NT titers, and dot plot for comparing SARS-CoV-2 postive and negative cases (dot\_plot.r).
+- The main program includes three different modules, which were used to generate two-variable GAM plot (d3\_plot.r) and linear regression (r2\_plot.r) for predicting NT titers, and dot plot for comparing SARS-CoV-2 postive and negative cases (dot\_plot.r). Command lines are as follows.
 
 ```
 Rscript main.r
@@ -51,7 +51,4 @@ Rscript cv.r
 - Yu-Nong Gong
 
 ## Acknowledgement
-- Research Center for Emerging Viral Infections, Chang Gung University, Taoyuan City, TAIWAN
-
-## License
-
+- This work was financially supported by the Research Center for Emerging Viral Infections from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan and the Ministry of Science and Technology (MOST), Taiwan (MOST 110-2634-F-182-001、MOST 109-2327-B-182-002).
