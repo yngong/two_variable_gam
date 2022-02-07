@@ -2,6 +2,10 @@
 
 - **Two-variable generalized additive model (GAM) serves as a surrogate to quantify neutralizing antibody titer.**
 
+## Citing this work
+
+- If you use this repo, please cite: mSphere 2022 Feb 2;e0088321. doi: 10.1128/msphere.00883-21
+
 ## Development environment
 
 - **R version 3.6.1 (2019-07-05)**
@@ -46,9 +50,6 @@ Rscript aic.r
 ```
 Rscript cv.r
 ```
-
-## Author
-- Yu-Nong Gong
 
 ## Acknowledgement
 - This work was financially supported by the Research Center for Emerging Viral Infections from The Featured Areas Research Center Program within the framework of the Higher Education Sprout Project by the Ministry of Education (MOE) in Taiwan and the Ministry of Science and Technology (MOST), Taiwan (MOST 110-2634-F-182-001、MOST 109-2327-B-182-002).
